@@ -54,4 +54,23 @@
   <img src="https://streak-stats.demolab.com/?user=mehmetyilmazalan" alt="GitHub contribution streak" />
 </p>
 
-![snake gif](https://github.com/mehmetyilmazalan/mehmetyilmazalan/blob/output/github-contribution-grid-snake.gif)
+
+<h3 align="center">🐍 My Contribution Snake</h3>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/mehmetyilmazalan/mehmetyilmazalan/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/mehmetyilmazalan/mehmetyilmazalan/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/mehmetyilmazalan/mehmetyilmazalan/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
