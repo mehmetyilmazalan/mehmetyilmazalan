@@ -53,3 +53,5 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=mehmetyilmazalan" alt="GitHub contribution streak" />
 </p>
+
+![snake gif](https://github.com/mehmetyilmazalan/mehmetyilmazalan/blob/output/github-contribution-grid-snake.gif)
