@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Yılmaz Alan</h1>
 <h3 align="center">Java &amp; Backend Development</h3>
 
-- 🔭 I recently completed Football Manager Lite
+- 🔭 I recently completed MiniECommerce
 - 🌱 I’m currently learning Java, object-oriented programming, Spring Boot, and software design
 - 👨‍💻 All of my projects are available at github.com/mehmetyilmazalan
 - 📫 How to reach me: mehmetyilmazalan@gmail.com
